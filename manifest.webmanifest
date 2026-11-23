@@ -1,0 +1,17 @@
+{
+  "name": "Олимп-5: подготовка к олимпиаде по математике",
+  "short_name": "Олимп-5",
+  "description": "Игровой тренажёр к олимпиаде по математике для 5 класса",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F0FF",
+  "theme_color": "#6C4CF1",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
